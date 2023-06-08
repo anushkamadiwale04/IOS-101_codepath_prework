@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of the implemented user stories:
 
-![Video Walkthrough](https://imgur.com/a/6V7P36Z)
+![Video Walkthrough](https://imgur.com/a/6V7P36Z.gif)
 
 
 ## App Brainstorming (Step 4)
