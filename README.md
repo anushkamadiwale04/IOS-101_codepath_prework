@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of the implemented user stories:
 
-<!-- Add a link to your GIF walkthrough once you create it e.g. ![Video Walkthrough](path/to/your/gif.gif) -->
+![](https://imgur.com/a/6V7P36Z)
+
 
 ## App Brainstorming (Step 4)
 
